@@ -18,14 +18,14 @@ The objectives of this project are to:
 - Identify countries and industries with significant billionaire representation.
 - Apply SQL techniques to answer relevant analytical questions.
 - Develop practical skills in data retrieval, filtering, aggregation and interpretation.
-
+  
 ## 3. Dataset Description
 
 **Dataset**: Top 200 Richest Person in the World
 **Dataset size**: 200 records
 **Number of variables**: 7 columns
 
-The dataset contains information about the wealthiest individuals globally, including their rankings, ages, countries, net worth and industries. You can find the dataset [HERE](dataset/Top 200 Richest Person in the World.xlsx).
+The dataset contains information about the wealthiest individuals globally, including their rankings, ages, countries, net worth and industries. You can find the dataset [HERE](dataset/Top200RichestPersonintheWorld.xlsx).
 
 ### Data Dictionary
 
