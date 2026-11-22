@@ -456,9 +456,25 @@ LIMIT 1;
 
 ## 8. Key Findings and Insights
 
-This section will document the major findings obtained from the analysis, highlighting patterns in billionaire wealth distribution, geographical representation, industry contributions and age demographics.
+Key Findings and Insights
 
-Findings will be updated as the analysis progresses.
+Analysis of the 200-billionaire dataset revealed the following:
+
+1. **Geographical concentration**: The United States dominates the dataset, accounting for 79 billionaires (39.5%) and approximately $3.13 trillion in combined wealth.
+
+2. **Industry dominance**: Technology leads in both billionaire representation (40 individuals) and combined net worth (approximately $1.74 trillion).
+
+3. **Age distribution**: Only 8% of the billionaires are younger than 50, indicating that the dataset is predominantly composed of older individuals.
+
+4. **Wealth inequality**: The average net worth ($31.84 billion) exceeds the median ($19.25 billion), suggesting a right-skewed wealth distribution influenced by individuals with exceptionally high net worths.
+
+5. **Wealth concentration**: The combined net worth of the billionaires in the dataset is approximately $6.37 trillion, with the United States accounting for about 49.2% of this total.
+
+6. **Age diversity**: The dataset spans ages 31 to 100, representing a 69-year difference between the youngest and oldest billionaires.
+
+### Overall Insight
+
+The analysis highlights the concentration of billionaire wealth across geographical regions and industries, particularly the prominence of the United States and the technology sector. It also reveals substantial differences in individual net worth and a relatively small proportion of billionaires below 50 years of age.
 
 ## 9. Project Structure
 
