@@ -1,5 +1,8 @@
 # Top 200 World Billionaires SQL Analysis
 
+  ![](screenshots/sqlfrontpage.png)
+
+  
 ## 1. Overview
 
 This project involves the exploration and analysis of a dataset containing the top 200 richest people in the world, based on the Forbes billionaire ranking represented in the supplied dataset.
